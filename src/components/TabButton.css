@@ -1,0 +1,20 @@
+menu{
+    display: flex;
+    margin-left: 20vw;
+}
+
+li {
+    list-style: none;
+}
+
+button {
+   background-color: transparent;
+    border: none;
+    padding: 1.5vmin 2.5vmin 1.5vmin 2.5vmin;
+    color: white;
+    font-size: x-large;
+}
+
+button:hover{
+    background-color: #1a181c;
+}
